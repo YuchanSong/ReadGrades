@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
